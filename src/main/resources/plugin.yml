@@ -1,0 +1,4 @@
+name: bedrockban
+version: '${project.version}'
+main: com.boocedup
+api-version: 1.19
